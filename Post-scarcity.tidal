@@ -1,7 +1,3 @@
-{-|
-In the long run, making programs free is a step toward the post-scarcity world, where nobody will have to work very hard just to make a living. People will be free to devote themselves to activities that are fun, such as programming, after spending the necessary ten hours a week on required tasks such as legislation, family counseling, robot repair and asteroid prospecting. There will be no need to be able to make a living from programming. - Richard Stallman
--}
-
 d1
 $ sometimesBy (1/13) (slow 2)
 $ sometimesBy (1/9) (iter 3)
